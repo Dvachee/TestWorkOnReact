@@ -1,0 +1,18 @@
+.like {
+    background: #fff;
+    border-radius: 50%;
+    border: solid 1px #eee;
+    height: 46px;
+    width: 46px;
+    font-size: 20px;
+    line-height: 46px;
+    text-align: center;
+    color: #ccc;
+}
+
+.like_active,
+.like:hover {
+    background: #D71A3F;
+    color: #fff;
+    border: solid 1px #D71A3F;
+}

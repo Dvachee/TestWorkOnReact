@@ -6,7 +6,7 @@ body {
 }
 
 * {
-    outline: none!Important;
+    outline: none!important;
 }
 
 a {
@@ -28,7 +28,7 @@ li {
 
 .act {
     color: #D71A3F!important;
-    opacity: 1!Important;
+    opacity: 1!important;
 }
 
 .container {
@@ -323,8 +323,8 @@ li {
 
 
 .breadcrumb {
-    background: none;
-    padding: 0;
+    background: none!important;
+    padding: 0!important;
 }
 
 
@@ -1353,7 +1353,7 @@ li {
     .content_bar__sorting {
         position: static;
     }
-    .content_bar__sorting > select {
+    .content_bar__sorting > select { 
         margin: 0;
         margin-top: 5px;
     }

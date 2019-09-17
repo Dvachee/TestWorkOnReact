@@ -1,0 +1,112 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "ToyShop",
+      "description": "Магазин игрушек для детей",
+      "bonus": "7 - 13",
+      "favorite": true,
+      "Rating": "4,3",
+      "logo": "TOY"
+    },
+    {
+      "id": 2,
+      "name": "Ikea",
+      "description": "Магазин мебели для всей семьи",
+      "bonus": "5 - 10",
+      "favorite": true,
+      "Rating": "4,7",
+      "logo": "IKEA"
+    },
+    {
+      "id": 3,
+      "name": "DNS",
+      "description": "Бытовая техника",
+      "bonus": "3 - 9",
+      "favorite": true,
+      "Rating": "4,1",
+      "logo": "DNS"
+    },
+    {
+      "id": 4,
+      "name": "KFC",
+      "description": "Кафе-ресторан",
+      "bonus": "7 - 13",
+      "favorite": false,
+      "Rating": "4,0",
+      "logo": "KFC"
+    },
+    {
+      "id": 5,
+      "name": "#Лаваш",
+      "description": "Кафе-ресторан",
+      "bonus": "7 - 13",
+      "favorite": false,
+      "Rating": "5,0",
+      "logo": "LAVASH"
+    },
+    {
+      "id": 6,
+      "name": "McDonalds",
+      "description": "Кафе-ресторан",
+      "bonus": "10 - 11",
+      "favorite": false,
+      "Rating": "4,5",
+      "logo": "MAC"
+    },
+    {
+      "id": 7,
+      "name": "FitService",
+      "description": "Обслуживание авто",
+      "bonus": "10 - 11",
+      "favorite": false,
+      "Rating": "4,1",
+      "logo": "FIT"
+    },
+    {
+      "id": 8,
+      "name": "LadaДетали",
+      "description": "Автомобильные запчасти",
+      "bonus": "5 - 10",
+      "favorite": false,
+      "Rating": "3,9",
+      "logo": "LADA"
+    },
+    {
+      "id": 9,
+      "name": "STO",
+      "description": "Авто-сервис",
+      "bonus": "8 - 12",
+      "favorite": false,
+      "Rating": "4,0",
+      "logo": "STO"
+    },
+    {
+      "id": 10,
+      "name": "Яндекс Такси",
+      "description": "Сервис вызова такси",
+      "bonus": "8 - 12",
+      "favorite": false,
+      "Rating": "4,6",
+      "logo": "TAXI"
+    },
+    {
+      "id": 11,
+      "name": "Delivery Club",
+      "description": "Сервис доставки еды",
+      "bonus": "8 - 12",
+      "favorite": false,
+      "Rating": "4,5",
+      "logo": "DELIVERY"
+    },
+    {
+      "id": 12,
+      "name": "Яндекс Еда",
+      "description": "Сервис доставки еды",
+      "bonus": "12 - 15",
+      "favorite": false,
+      "Rating": "4,8",
+      "logo": "YANDFOOD"
+    }
+  ]
+}
